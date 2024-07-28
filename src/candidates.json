@@ -1,0 +1,84 @@
+{
+  "candidates": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "location": "New York",
+      "contact": "123-456-7890",
+      "rating": 4.0,
+      "status": "New",
+      "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+      "internetSignal": "strong"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "location": "San Francisco",
+      "contact": "987-654-3210",
+      "rating": 5.0,
+      "status": "Followed",
+      "avatar": "https://randomuser.me/api/portraits/women/2.jpg",
+      "internetSignal": "medium"
+    },
+    {
+      "id": "3",
+      "name": "Alice Johnson",
+      "location": "Los Angeles",
+      "contact": "555-123-4567",
+      "rating": 3.0,
+      "status": "New",
+      "avatar": "https://randomuser.me/api/portraits/women/3.jpg",
+      "internetSignal": "weak"
+    },
+    {
+      "id": "4",
+      "name": "Bob Brown",
+      "location": "Chicago",
+      "contact": "444-555-6666",
+      "rating": 4.0,
+      "status": "Followed",
+      "avatar": "https://randomuser.me/api/portraits/men/4.jpg",
+      "internetSignal": "strong"
+    },
+    {
+      "id": "5",
+      "name": "Charlie Davis",
+      "location": "Houston",
+      "contact": "333-444-5555",
+      "rating": 2.0,
+      "status": "New",
+      "avatar": "https://randomuser.me/api/portraits/men/5.jpg",
+      "internetSignal": "medium"
+    },
+    {
+      "id": "6",
+      "name": "David Evans",
+      "location": "Phoenix",
+      "contact": "222-333-4444",
+      "rating": 5.0,
+      "status": "",
+      "avatar": "https://randomuser.me/api/portraits/men/6.jpg",
+      "internetSignal": "weak"
+    },
+    {
+      "id": "7",
+      "name": "Eve Foster",
+      "location": "Philadelphia",
+      "contact": "111-222-3333",
+      "rating": 4.0,
+      "status": "",
+      "avatar": "https://randomuser.me/api/portraits/women/7.jpg",
+      "internetSignal": "strong"
+    },
+    {
+      "id": "8",
+      "name": "Frank Green",
+      "location": "San Antonio",
+      "contact": "999-888-7777",
+      "rating": 3.0,
+      "status": "",
+      "avatar": "https://randomuser.me/api/portraits/men/8.jpg",
+      "internetSignal": "medium"
+    }
+  ]
+}
