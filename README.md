@@ -2,6 +2,9 @@
 
 This is a candidate management board built with React and `react-beautiful-dnd` for drag-and-drop functionality. The project uses Tailwind CSS for styling.
 
+# Demo
+https://www.loom.com/share/82af02fdef444a5799e37c1a4f0b1747
+
 ## Features
 
 - Drag and drop candidates between columns
