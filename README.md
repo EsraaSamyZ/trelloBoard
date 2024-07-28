@@ -35,22 +35,16 @@ Before you begin, ensure you have met the following requirements:
 ## Running the Project
 Start the development server:
 
-Using npm:
+1. Using npm:
+   ```sh
+   npm start
 
-```sh
-npm start
+2. Or using yarn:
+   ```sh
+   yarn start
 
-Or using yarn:
-
-```sh
-yarn start
-
-Open your browser and go to:
-```sh
-http://localhost:3000
+3. Open your browser and go to:
+   ```sh
+   http://localhost:3000
 
 
-## Acknowledgements
-React
-react-beautiful-dnd
-Tailwind CSS
